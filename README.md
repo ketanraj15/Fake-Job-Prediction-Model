@@ -2,7 +2,7 @@
 Scammers advertise jobs the same way legitimate employers do — online (in ads, on job sites, and social media), in newspapers, and sometimes on TV and radio. They promise you a job, but what they want is your money and your personal information.
 
 ## Model Description 
-Fake-Job-Predictor is a python based machine learning model,which uses algorithms like the Naive Bayes algorithm and Decision tree classifier algorithm,to predict wether a posted job is fake or real. The model is deployed over heroku and can be viewed [here.](https://fake-job-prediction.herokuapp.com/)
+Fake-Job-Predictor is a python based machine learning model, which uses algorithms like the Naive Bayes algorithm and Decision tree classifier algorithm, to predict whether a posted job is fake or real. The model is deployed over heroku and can be viewed [here.](https://fake-job-prediction.herokuapp.com/)
 
 Code for all the detailed analysis and model building can be viewed [here](Fake_job_predictor.ipynb).
 
