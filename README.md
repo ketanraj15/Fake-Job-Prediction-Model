@@ -19,7 +19,7 @@ Code for all the detailed analysis and model building can be viewed [here](Fake_
 * wordcloud
 * Natural Language Toolkit
 * Multinomial Naive Bayes (scikit-learn)
-* Data tree classifier (scikit-learn)
+* Decision tree classifier (scikit-learn)
 * flask
 
 ## Analysis of Dataset
